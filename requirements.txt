@@ -1,2 +1,5 @@
 streamlit
 pint
+pandas
+matplotlib==3.8.0 
+numpy
